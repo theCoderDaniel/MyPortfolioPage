@@ -224,6 +224,32 @@
             .nav-toggle.active span:nth-child(3) {
                 transform: translateY(-8px) rotate(-45deg);
             }
+
+            .hero {
+                padding-top: 100px;
+                padding-bottom: 80px;
+            }
+            
+            .scroll-indicator {
+                bottom: 30px;
+                font-size: 1.5rem;
+            }
+        }
+
+        /* Zusätzliche Anpassungen für sehr kleine Bildschirme */
+        @media (max-width: 380px) {
+            .hero h1 {
+                font-size: clamp(2rem, 5vw, 3rem);
+            }
+
+            .project-features {
+                gap: 0.5rem;
+            }
+
+            .feature-tag {
+                padding: 0.3rem 0.6rem;
+                font-size: 0.8rem;
+            }
         }
 
         .hero {
@@ -679,71 +705,41 @@
                 padding: 0 1rem;
             }
 
-            .nav-links {
-                display: none;
+            .project-card p {
+                font-size: 0.95rem;
+                line-height: 1.4;
+                max-height: 4.2em;
+                overflow: hidden;
+                display: -webkit-box;
+                -webkit-line-clamp: 3;
+                line-clamp: 3;
+                -webkit-box-orient: vertical;
+                margin: 0.8rem 0;
             }
 
-            .nav-toggle {
-                display: flex; /* Auf mobil anzeigen */
-            }
-
-            .nav-links {
-                position: fixed;
-                top: 0;
-                right: -100%;
-                width: 100%;
-                height: 100vh;
-                background: rgba(10, 10, 15, 0.98);
-                backdrop-filter: blur(10px);
-                display: flex;
-                flex-direction: column;
-                justify-content: center;
-                align-items: center;
-                gap: 2rem;
-                transition: right 0.3s ease;
-                z-index: 1000;
-            }
-
-            .nav-links.active {
-                right: 0;
-            }
-
-            .nav-toggle.active span:nth-child(1) {
-                transform: translateY(8px) rotate(45deg);
-            }
-
-            .nav-toggle.active span:nth-child(2) {
-                opacity: 0;
-            }
-
-            .nav-toggle.active span:nth-child(3) {
-                transform: translateY(-8px) rotate(-45deg);
-            }
-
-            .hero {
-                padding-top: 100px;
-                padding-bottom: 80px;
-            }
-            
-            .scroll-indicator {
-                bottom: 30px;
-                font-size: 1.5rem;
-            }
-        }
-
-        /* Zusätzliche Anpassungen für sehr kleine Bildschirme */
-        @media (max-width: 380px) {
-            .hero h1 {
-                font-size: clamp(2rem, 5vw, 3rem);
+            .featured-project {
+                min-height: auto;
+                padding: 1.8rem;
             }
 
             .project-features {
                 gap: 0.5rem;
+                margin: 1rem 0;
             }
 
             .feature-tag {
-                padding: 0.3rem 0.6rem;
+                padding: 0.4rem 0.8rem;
+                font-size: 0.85rem;
+            }
+
+            .project-badge {
                 font-size: 0.8rem;
+                padding: 0.4rem 0.8rem;
+            }
+
+            .project-link {
+                padding-top: 1rem;
+                font-size: 0.9rem;
             }
         }
 
