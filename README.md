@@ -1,4 +1,4 @@
-# Daniel Koch's Portfolio Website
+# Daniel's Portfolio Website
 
 Welcome to my portfolio website! I am Daniel Koch, a 17-year-old IT Apprentice specializing in Web and Mobile Technologies. This site showcases my projects, skills, and the journey of my coding adventure while balancing mental and physical challenges.
 
