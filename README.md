@@ -29,7 +29,6 @@ Here are a few highlights of my current and past projects:
 - **Email**: daniel.koch@mail.de
 - **GitHub**: [@theCoderDaniel](https://github.com/theCoderDaniel)
 - **Instagram**: [dxniel_rgb](https://instagram.com/dxniel_rgb)
-- **WhatsApp**: +49 159 06774217
 
 Feel free to explore my projects and reach out to me for collaboration or inquiries. I'm excited to connect with fellow tech enthusiasts!
 
