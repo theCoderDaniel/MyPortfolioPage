@@ -26,12 +26,11 @@ Here are a few highlights of my current and past projects:
 
 ## Connect With Me
 
-- **Email**: daniel.koch@mail.de
+- **Email**: daniel.koch018@gmail.com
 - **GitHub**: [@theCoderDaniel](https://github.com/theCoderDaniel)
-- **Instagram**: [dxniel_rgb](https://instagram.com/dxniel_rgb)
 
 Feel free to explore my projects and reach out to me for collaboration or inquiries. I'm excited to connect with fellow tech enthusiasts!
 
 ---
 
-© 2025 Daniel Koch • Fachinformatiker für Anwendungsentwicklung
+© 2025 Daniel Koch • Apprentice Computer Science Expert Subject Area: Software Development
