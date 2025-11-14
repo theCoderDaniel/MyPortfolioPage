@@ -1,36 +1,34 @@
-# Daniel's Portfolio Website
+# Daniel Koch
 
-Welcome to my portfolio website! I am Daniel Koch, a 17-year-old IT Apprentice specializing in Web and Mobile Technologies. This site showcases my projects, skills, and the journey of my coding adventure while balancing mental and physical challenges.
+IT Apprentice @ Schaeffler | Web & Mobile Development
 
-## About Me
+Building practical applications with Python and modern web technologies.
 
-I'm passionate about coding and eager to explore the depths of technology. As an apprentice at Schaeffler, I continuously strive to enhance my skillset, taking on new challenges every day. Beyond coding, you'll find me staying strong on the wrestling mat or in the gym — a perfect balance of mental acuity and physical strength for success!
+## Stack
 
-## Skills
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-- **Frontend Development**: HTML, CSS, JavaScript
-- **Backend Development**: Python, Automation
-- **Mobile Development**: Flutter with Dart (actively learning)
+Currently learning: **Advanced Python**
 
-## Projects
+## Featured Work
 
-Here are a few highlights of my current and past projects:
+**🎯 [MyPortfolioPage](https://thecoderdaniel.github.io/MyPortfolioPage/)**  
+Full project showcase and professional overview
 
-- **AzubiAssist**: An all-in-one app for apprentices to manage their workday effectively. It includes a smart report manager, integrated exam planner, and AI-powered learning assistance. Launching in January 2026.
-  
-- **Creator Dashboard**: A tool-suite for YouTube content creation with over 11K+ subscribers. Utilizing technologies like Python, ChatGPT, and desktop automation.
+**📱 AzubiAssist** • Jan 2027  
+Apprentice management platform with AI learning support
 
-- **Friseur-Website**: A modern website providing quick actions for appointments and services, designed with HTML & CSS, and mobile-first principles.
+**🎬 Creator Dashboard**  
+Automation suite for YouTube (13K+ subs)
 
-- **Desktop Control**: A voice-controlled PC assistant for increasing efficiency, utilizing Python, Windows API, and automation features.
+## Let's Connect
 
-## Connect With Me
-
-- **Email**: daniel.koch018@gmail.com
-- **GitHub**: [@theCoderDaniel](https://github.com/theCoderDaniel)
-
-Feel free to explore my projects and reach out to me for collaboration or inquiries. I'm excited to connect with fellow tech enthusiasts!
+📧 daniel.koch018@gmail.com  
+🌐 [Portfolio](https://thecoderdaniel.github.io/MyPortfolioPage/)
 
 ---
 
-© 2025 Daniel Koch • Apprentice Computer Science Expert Subject Area: Software Development
+*Computer Science Apprentice • Software Development*
